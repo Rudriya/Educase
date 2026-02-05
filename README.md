@@ -1,6 +1,6 @@
-# PopX Auth
+# Educase
 
-PopX Auth is a modern frontend authentication flow built with **React**, **Vite**, and **Tailwind CSS**.  
+Educase is a modern frontend authentication flow built with **React**, **Vite**, and **Tailwind CSS**.  
 It demonstrates a clean signup, login, and profile experience with client-side state management.
 
 ---
@@ -96,3 +96,4 @@ PopX-Auth
 ```
 
 ---
+
